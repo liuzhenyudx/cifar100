@@ -1,0 +1,3 @@
+由于最后使用服务器运行代码，并且不太熟练，vis.png仅仅是在自己电脑运行的一部分
+
+此次定义的网络添加了cifar100的normolization，以及尝试了更改batchsize，learningrate，以及更深resnet，但都效果不大。acc仅有0.69
